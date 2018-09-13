@@ -1,0 +1,12 @@
+registerstudent.view.RegisterStudentView
+registerstudent.view.RegisterStudentView$1
+sip.registerstudent.view.RegisterStudentView$6
+sip.registerstudent.view.RegisterStudentView$5
+registerstudent.view.RegisterStudentView$4
+sip.registerstudent.view.RegisterStudentView$4
+sip.registerstudent.view.RegisterStudentView$3
+registerstudent.view.RegisterStudentView$2
+sip.registerstudent.view.RegisterStudentView$2
+registerstudent.view.RegisterStudentView$3
+sip.registerstudent.view.RegisterStudentView$1
+sip.registerstudent.view.RegisterStudentView

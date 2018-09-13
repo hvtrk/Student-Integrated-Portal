@@ -1,0 +1,22 @@
+=============>Project By Heven Tech Private Limited.<=============
+__________________!! developed by Rahul Kumar !!__________________
+
+
+Steps To run the Project 
+
+1. Download Netbens and Mysql.
+2. Install Netbens and Mysql.
+3. Click Open Projects.
+3. Browser to the Downloaded folder of the projects.
+4. Open the main.form/main.java
+5. Open MySql.
+6. Create the database file from the databse folder.
+7. Save the Settings
+8. Edit the Username and the password in the appropriate java file. 
+8. Run the Project
+   By Pressing F6 function key.(on Wiindows)
+
+Thanks For Downloading the Project.
+Feel free To support us at 
+( dr.rahulk95@gmail.com )
+
